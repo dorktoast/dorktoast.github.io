@@ -1,0 +1,11 @@
+<b>Brighton Beach: Update 2023.7.xx</b>
+- Updated dynamic text to Github.IO
+- Release of VRPG 2023.6.29
+
+<b>Villa: Update 2023.06.26</b>
+- Added test version of character sheet downloader.
+
+<b>Downtown: Update 2023.05.19 & 2023.5.26</b>
+- Downtown Hub updated to use dynamic string downloading. If you're reading this, it worked!
+- Fixed some issues with synchronization. One goal was to make sure all labels synchronize for late joiners.
+- Some small issues with collisions on buildings have been fixed.
