@@ -1,35 +1,39 @@
 Alex Uranus,Seneschal
 Alicia Wallace,Giovanni
+Amanda Hawke,Toreador
 Antonio Sanchez,Gangrel
 Arkady, 
-Beatrice/Haniko,Malkavian
+Beatrice & Haniko,Malkavian
 Blindy,Caitiff
 Danny DeVitae,The Trashman
 Domina Weiss,Harpy
-Eleanora Holmes, 
-Eli Stone,Gangrel
+Eleanora Holmes,Ventrue | Greater Status Ban
+Eli Stone,Keeper of Elysium
 Evelyn,Dhampir
-Franco Fideli, Giovanni
+Franco Giovanni, Giovanni
 Gabriel Payne,Ventrue Elder
 Georgiano Crivelli,Doyen of the Alliance
-Ghost In The Machine,Advocate of Brighton Beach
-Havok,Brujah
+Havok,Brujah Autarkis
 Jim McCoy,Prince of Caliburn
+Katerine Wallace, 
 Lance,Brujah
 Leona Wood,Malkavian
-Leto The Morning Star,Why did you click this button
 Malcolm,Malkavian
 Marckus Morbin,Nosferatu
 Max Saber,Ventrue Primogen
 Nocturne,Watchdog
-Persephone Von Pierce, 
+Persephone Von Pierce,Daughter of Cocophony
 Plutarco Giovanni,Warden of Caliburn
 Polaris,Assamite
+Pyric,Malkavian
 Reginald Rockfeller,Gargoyle
 Rolf Koenig,Giovanni
 Remu Rose,Gangrel
+Sawyer,Toreador | Prestigious Sire
+Selene Blackwood,Ventrue
 Talvir,Mesu Bedshet | Gorgeous
 The Boondock Saint,Constable
+The Ghost In The Machine,Advocate of Brighton Beach
 Twinkle,<color="white"><i>Majesty</i></color> - What a badass!
 Walter Beck,Tremere
 William Bagg,Tremere Primogen
