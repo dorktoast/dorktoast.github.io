@@ -1,8 +1,8 @@
 This map is based on a section of the upcoming game <b>SCP:Infohazard.</b>
 
-FOr more info or to follow the project, Join the <color="#979727">GIB Games</color> Discord at:
+For more info or to follow the project, Join the <color="#979727">GIB Games</color> Discord at:
 
-<color=red><b>https://discord.gib.games</b></red>
+<color=red><b>https://discord.gib.games</b></color>
 
 Follow the kickstarter at:
 <color=yellow>https://gib.games/infohazard</color>
