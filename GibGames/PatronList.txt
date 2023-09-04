@@ -19,7 +19,6 @@ LeftiePlays
 Jormok
 Pete
 Ekron Vulture
-Jormok
 DarthPackman
 Rattasque
 DemonicToes
@@ -33,7 +32,8 @@ Shreksumus
 skedlkej
 AlaylaZin
 Ziiin
-SwaMusic@<b>Executive Producers</b>
+SwaMusic
+LMB_Eagle@<b>Executive Producers</b>
 Guppy Gills
 VRLarp.com
 WeAreBorg
@@ -43,7 +43,10 @@ Star
 DSWI
 The Owlbear Jew
 Science4hemp
-WolfChild@GengarMatey
+WolfChild
+Sollavoc
+lolmart
+Eagle@GengarMatey
 Kaladin
 Pixelannex
 Raeshy715
@@ -58,6 +61,7 @@ Carie V.
 DarthPackman
 FrozenPmpkn21
 skedlkej
+DougThistle
 SwaMusic
 Thorbanewolf
 - Vorath -
