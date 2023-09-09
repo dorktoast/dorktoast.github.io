@@ -1,40 +1,47 @@
 Alex Uranus,Seneschal
 Alicia Wallace,Giovanni
-Amanda Hawke,Toreador
 Antonio Sanchez,Gangrel
 Arkady, 
+Astaria Young,formerly Tara Dane
 Beatrice & Haniko,Malkavian
-Blindy,Caitiff
-Danny DeVitae,The Trashman
+Danny DeVitae,Sheriff
+Devan Marcell,Tremere
 Domina Weiss,Harpy
+Eakiro, Toreador
 Eleanora Holmes,Ventrue | Greater Status Ban
 Eli Stone,Keeper of Elysium
 Evelyn,Dhampir
-Franco Giovanni, Giovanni
-Gabriel Payne,Ventrue Elder
+F,Malkavian
+Fenrir,"Assamite"
+Franco Giovanni, Hatchet
 Georgiano Crivelli,Doyen of the Alliance
+Hal Carver,Ventrue Neonate
 Havok,Brujah Autarkis
+Ivar Wulfgram,Werewolf
 Jim McCoy,Prince of Caliburn
-Katerine Wallace, 
 Lance,Brujah
-Leona Wood,Malkavian
+Lord Payne,Ventrue Elder
 Malcolm,Malkavian
-Marckus Morbin,Nosferatu
+Mafalda Puttanesca,Giovanni
+Marckus Morbin,Guardian of Sacred Spaces
 Max Saber,Ventrue Primogen
 Nocturne,Watchdog
+Nora,Malkavian
+Ophelia Toussant,Tremere
 Persephone Von Pierce,Daughter of Cocophony
 Plutarco Giovanni,Warden of Caliburn
 Polaris,Assamite
-Pyric,Malkavian
 Reginald Rockfeller,Gargoyle
 Rolf Koenig,Giovanni
 Remu Rose,Gangrel
+Sammie,Caitiff
 Sawyer,Toreador | Prestigious Sire
 Selene Blackwood,Ventrue
 Talvir,Mesu Bedshet | Gorgeous
-The Boondock Saint,Constable
-The Ghost In The Machine,Advocate of Brighton Beach
+The Boondock Saint,Advocate of Brighton Beach
+The Ghost In The Machine,Nosferatu
 Twinkle,<color="white"><i>Majesty</i></color> - What a badass!
+Velika, 
 Walter Beck,Tremere
 William Bagg,Tremere Primogen
 Wrath,Malkavian
