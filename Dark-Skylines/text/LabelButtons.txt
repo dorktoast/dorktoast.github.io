@@ -2,23 +2,29 @@ Alex Uranus,Seneschal
 Alicia Wallace,Giovanni
 Antonio Sanchez,Gangrel
 Arkady, 
-Astaria Young,formerly Tara Dane
+Astrea Young,formerly Tara Dane
+Barnabas,Mesu Bedshet
 Beatrice & Haniko,Malkavian
+Carter,Brujah
+Crow,Tremere
 Danny DeVitae,Sheriff
 Devan Marcell,Tremere
 Domina Weiss,Harpy
 Eakiro, Toreador
-Eleanora Holmes,Ventrue | Greater Status Ban
+Eleanora 'Ruby' Holmes,Ventrue | Greater Status Ban
 Eli Stone,Keeper of Elysium
+Elijah Eleos,Ventrue
 Evelyn,Dhampir
 F,Malkavian
 Fenrir,"Assamite"
 Franco Giovanni, Hatchet
 Georgiano Crivelli,Doyen of the Alliance
+Gerard,Nosferatu
 Hal Carver,Ventrue Neonate
 Havok,Brujah Autarkis
 Ivar Wulfgram,Werewolf
 Jim McCoy,Prince of Caliburn
+Kel,Gangrel
 Lance,Brujah
 Lord Payne,Ventrue Elder
 Malcolm,Malkavian
@@ -31,7 +37,7 @@ Ophelia Toussant,Tremere
 Persephone Von Pierce,Daughter of Cocophony
 Plutarco Giovanni,Warden of Caliburn
 Polaris,Assamite
-Reginald Rockfeller,Gargoyle
+Reggie Rockfeller,Gargoyle
 Rolf Koenig,Giovanni
 Remu Rose,Gangrel
 Sammie,Caitiff
@@ -45,3 +51,4 @@ Velika,
 Walter Beck,Tremere
 William Bagg,Tremere Primogen
 Wrath,Malkavian
+Zoltan Lionheart,Gangrel
