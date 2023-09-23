@@ -11,7 +11,7 @@ Danny DeVitae,Sheriff
 Devan Marcell,Tremere
 Domina Weiss,Harpy
 Eakiro, Toreador
-Eleanora 'Ruby' Holmes,Ventrue | Greater Status Ban
+Eleanora 'Ruby' Holmes,Ventrue | Fame 1 (Author | IA
 Eli Stone,Keeper of Elysium
 Elijah Eleos,Ventrue
 Evelyn,Dhampir
@@ -47,7 +47,7 @@ Talvir,Mesu Bedshet | Gorgeous
 The Boondock Saint,Advocate of Brighton Beach
 The Ghost In The Machine,Nosferatu
 Twinkle,<color="white"><i>Majesty</i></color> - What a badass!
-Velika, 
+Velika, Low banality
 Walter Beck,Tremere
 William Bagg,Tremere Primogen
 Wrath,Malkavian
