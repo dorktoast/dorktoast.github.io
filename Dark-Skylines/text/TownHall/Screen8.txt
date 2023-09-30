@@ -1,0 +1,12 @@
+<b>How to help with the game</b>:
+
+- Helping characters make sheets
+ - Try to avoid helping your friends make sheets
+ - Always check with a narrator
+
+- World dev
+ - Open repo
+ - world building workshops
+
+- Avatar dev
+ - Vroid
