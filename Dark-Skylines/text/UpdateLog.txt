@@ -1,3 +1,9 @@
+<b>Update 2023.10.8</b>
+- Implemented U# inheritance
+- Optimized Textures for Quest
+- Implemented regional occlusion to reduce Draw Calls
+- Updated Menu UI
+
 <b>Brighton Beach: Update 2023.8.5</b>
 - Hideable map icons
 - Fixed downloaders
@@ -7,6 +13,3 @@
 <b>Brighton Beach: Update 2023.7.12</b>
 - Updated dynamic text to Github.IO
 - Release of VRPG 2023.6.29
-
-<b>Villa: Update 2023.06.26</b>
-- Added test version of character sheet downloader.

@@ -1,19 +1,25 @@
 Alex Uranus,Seneschal
 Alicia Wallace,Giovanni
 Antonio Sanchez,Gangrel
-Arkady, 
+Arkady,Nosferatu | Smells like rot
+Audrey Pending,Tremere
 Astrea Young,formerly Tara Dane
-Barnabas,Mesu Bedshet
 Beatrice & Haniko,Malkavian
 Carter,Brujah
+Ciel,Toreador | Fame
+Corvelia Giovanni, 
 Crow,Tremere
+Cyris Gray,Nosferatu
+Damon Galway,Fame (Saxophonist)
 Danny DeVitae,Sheriff
 Devan Marcell,Tremere
-Domina Weiss,Harpy
+Dmitri,<color="cyan">Cold</color>
+Domina Weiss,Master Harpy
 Eakiro, Toreador
-Eleanora 'Ruby' Holmes,Ventrue | Fame 1 (Author | IA
+Edgar Freake,Department of Enigmas
+Eleanora 'Ruby' Holmes,Ventrue | Fame (Author) | IA
 Eli Stone,Keeper of Elysium
-Elijah Eleos,Ventrue
+Elijah Eleos,Ventrue | <color="#972727">Infamous Brood</color>
 Evelyn,Dhampir
 F,Malkavian
 Fenrir,"Assamite"
@@ -22,17 +28,16 @@ Georgiano Crivelli,Doyen of the Alliance
 Gerard,Nosferatu
 Hal Carver,Ventrue Neonate
 Havok,Brujah Autarkis
-Ivar Wulfgram,Werewolf
 Jim McCoy,Prince of Caliburn
 Kel,Gangrel
 Lance,Brujah
+LeRoux,Talon
 Lord Payne,Ventrue Elder
 Malcolm,Malkavian
 Mafalda Puttanesca,Giovanni
 Marckus Morbin,Guardian of Sacred Spaces
 Max Saber,Ventrue Primogen
 Nocturne,Watchdog
-Nora,Malkavian
 Ophelia Toussant,Tremere
 Persephone Von Pierce,Daughter of Cocophony
 Plutarco Giovanni,Warden of Caliburn
@@ -41,14 +46,15 @@ Reggie Rockfeller,Gargoyle
 Rolf Koenig,Giovanni
 Remu Rose,Gangrel
 Sammie,Caitiff
+Sandy,Brujah | Fame (Librarian)
 Sawyer,Toreador | Prestigious Sire
-Selene Blackwood,Ventrue
+Selene Blackwood,Ventrue Whip
 Talvir,Mesu Bedshet | Gorgeous
 The Boondock Saint,Advocate of Brighton Beach
-The Ghost In The Machine,Nosferatu
-Twinkle,<color="white"><i>Majesty</i></color> - What a badass!
+The Ghost In The Machine,Anarch Architect
+Thyra Shield-Heardt,Elder Gangrel
+Twinkle,Fame (DJ) | <color="white"><i>Majesty</i></color> - What a badass!
 Velika, Low banality
-Walter Beck,Tremere
 William Bagg,Tremere Primogen
 Wrath,Malkavian
 Zoltan Lionheart,Gangrel
