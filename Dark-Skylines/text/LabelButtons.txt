@@ -45,13 +45,13 @@ Polaris,Assamite
 Reggie Rockfeller,Gargoyle
 Rolf Koenig,Giovanni
 Remu Rose,Gangrel
-Sammie,Caitiff
+Sammie Okra,Caitiff
 Sandy,Brujah | Fame (Librarian)
 Sawyer,Toreador | Prestigious Sire
-Selene Blackwood,Ventrue Whip
+Selene Blackwood,Ventrue Primogen <i>ad interim</i>
 Talvir,Mesu Bedshet | Gorgeous
 The Boondock Saint,Advocate of Brighton Beach
-The Ghost In The Machine,Anarch Architect
+The Ghost In The Machine,Anarch Nosferatu
 Thyra Shield-Heardt,Elder Gangrel
 Twinkle,Fame (DJ) | <color="white"><i>Majesty</i></color> - What a badass!
 Velika, Low banality
