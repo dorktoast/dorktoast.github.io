@@ -1,53 +1,59 @@
 Alex Uranus,Seneschal
 Alicia Wallace,Giovanni
-Anastasia Aran,Brujah
 Antonio Sanchez,Gangrel
+Arkady,Nosferatu | Smells like rot
 Audrey Pending,Tremere
 Astrea Young,formerly Tara Dane
 Beatrice & Haniko,Malkavian
+Carter,Brujah
 Ciel,Toreador | Fame
 Corvelia Giovanni, 
 Crow,Tremere
 Cyris Gray,Nosferatu
-Dahlia Spencer,Ventrue
 Damon Galway,Fame (Saxophonist)
 Danny DeVitae,Sheriff
 Devan Marcell,Tremere
+Dmitri,<color="cyan">Cold</color>
 Domina Weiss,Master Harpy
 Eakiro, Toreador
 Edgar Freake,Department of Enigmas
 Eleanora 'Ruby' Holmes,Ventrue | Fame (Author) | IA
 Eli Stone,Keeper of Elysium
-Elijah Eleos, Ventrue Paragon | House Redhart 
+Elijah Eleos, House Redhart | Paragon
 Evelyn,Dhampir
 F,Malkavian
 Fenrir,"Assamite"
 Franco Giovanni, Hatchet
+Georgiano Crivelli,Doyen of the Alliance
 Gerard,Nosferatu
-Hal Carver,Ventrue Whip | House Redhart
+Hal Carver,Ventrue Neonate
 Havok,Brujah Autarkis
 Jim McCoy,Prince of Caliburn
 Kel,Gangrel
 Lance,Brujah
 LeRoux,Talon
-Lord Payne,Ventrue Elder | House Redhart
+Lord Payne,Ventrue Elder
 Malcolm,Malkavian
 Mafalda Puttanesca,Giovanni
 Marckus Morbin,Guardian of Sacred Spaces
-Max Saber,Ventrue | House Redhart
+Max Saber,Ventrue Primogen
 Nocturne,Watchdog
 Ophelia Toussant,Tremere
 Persephone Von Pierce,Daughter of Cocophony
 Plutarco Giovanni,Warden of Caliburn
-Reggie Rockfeller,Advocate <i>ad interim</i>
-Richard Brando,Anarch
+Polaris,Assamite
+Reggie Rockfeller,Gargoyle
 Rolf Koenig,Giovanni
+Remu Rose,Gangrel
 Sammie Okra,Caitiff
 Sandy,Brujah | Fame (Librarian)
 Sawyer,Toreador Primogen | Prestigious Sire
-Selene Blackwood,Ventrue Primogen | House Redhart
-Sweetie,Fame
+Selene Blackwood,Ventrue Primogen <i>ad interim</i>
+Talvir,Mesu Bedshet | Gorgeous
+The Boondock Saint,Advocate of Brighton Beach
 The Ghost In The Machine,Anarch Nosferatu
 Thyra Shield-Heardt,Elder Gangrel
+Twinkle,Fame (DJ) | <color="white"><i>Majesty</i></color> - What a badass!
+Velika, Low banality
 William Bagg,Tremere Primogen
 Zoltan Lionheart,Gangrel

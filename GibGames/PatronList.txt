@@ -1,6 +1,5 @@
 DorkToast
 Local Player 1
-TheOwlbearJew
 Tehestlin
 LeftiePlays
 I84Lunch
@@ -42,7 +41,6 @@ GREGSIM1984
 Torvig
 Vorath
 Thorbanewolf
-skedlkej
 AshPhantom32
 DarthPackman
 Rattasque
