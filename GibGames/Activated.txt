@@ -1,5 +1,4 @@
-DorkToast
-WeAreBorg@GuppyGills
+GuppyGills
 Pyrusdenhund
 Blitz
 Sollavoc
@@ -16,4 +15,5 @@ I84Lunch
 Artzi
 Tyreece B.
 Pete G
-Ekron Vulture
+Ekron Vulture@DorkToast
+WeAreBorg
