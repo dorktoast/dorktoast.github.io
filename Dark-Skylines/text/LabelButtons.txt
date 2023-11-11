@@ -1,6 +1,8 @@
 Anastasia Aran,Brujah
+Alexander,Malkavian
 Antonio Sanchez,Gangrel
 Astrea Young,formerly Tara Dane
+Bella Thorne,Tremere
 Corvelia Giovanni, 
 Crow,Tremere
 Cyris Gray,Nosferatu
@@ -11,7 +13,9 @@ Eakiro, Toreador
 Eli Stone,Keeper of Elysium
 Evelyn,Dhampir
 F,Malkavian
+Philip Krate,Caitiff
 Franco Giovanni, Hatchet
+Garry Gettermin,Gangrel
 Havok,Brujah Autarkis
 Jim McCoy,Prince of Caliburn
 Lance,Brujah
@@ -20,7 +24,6 @@ Malcolm,Malkavian
 Mafalda Puttanesca,Giovanni
 Marckus Morbin,Guardian of Sacred Spaces
 Max Saber,Ventrue | House Redhart
-Nocturne,Watchdog
 Persephone Von Pierce,Daughter of Cocophony
 Plutarco Giovanni,Warden of Caliburn
 Reggie Rockfeller,Advocate <i>ad interim</i>
