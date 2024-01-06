@@ -1,35 +1,34 @@
 Anastasia Aran,Brujah
 Alexander,Malkavian
 Antonio Sanchez,Gangrel
-Astrea Young,formerly Tara Dane
+Astrea Young,Keeper of Elysium
 Bella Thorne,Tremere
-Corvelia Giovanni, 
+Corvelia Giovanni,Doyen of the Alliance
 Crow,Tremere
 Cyris Gray,Nosferatu
+Damien Blackfeather, 
 Danny DeVitae,Sheriff
 Devan Marcell,Tremere
-Domina Weiss,Master Harpy
+Dr. Kelson O'Dell,Imperial Talon
 Eakiro, Toreador
-Eli Stone,Keeper of Elysium
 Evelyn,Dhampir
 F,Malkavian
-Philip Krate,Caitiff
 Franco Giovanni, Hatchet
 Garry Gettermin,Gangrel
+Guy Skinner, 
 Havok,Brujah Autarkis
 Jim McCoy,Prince of Caliburn
+Keller,Gangrel
 Lance,Brujah
 Lord Payne,Ventrue Elder | House Redhart
-Malcolm,Malkavian
-Mafalda Puttanesca,Giovanni
-Marckus Morbin,Guardian of Sacred Spaces
 Max Saber,Ventrue | House Redhart
-Persephone Von Pierce,Daughter of Cocophony
-Plutarco Giovanni,Warden of Caliburn
-Reggie Rockfeller,Advocate <i>ad interim</i>
-Richard Brando,Anarch
-Sammie Okra,Caitiff
+Mr. Warlock, 
+Omori,Nosferatu
+Peter Axton, 
+Sammie Okra,Warden of Caliburn
 Selene Blackwood,Ventrue Primogen | House Redhart
+Seth Gofrey,Tremere 
 The Ghost In The Machine,Anarch Nosferatu
-William Bagg,Tremere Primogen
+William Bagg,Seneschal
+Wrath, 
 Zoltan Lionheart,Gangrel
