@@ -22,7 +22,7 @@ Peter Axton,
 Sammie Okra,Warden of Caliburn
 Selene Blackwood,Ventrue Primogen | House Redhart
 Seth Gofrey,Tremere 
-Skiz
+Skiz,Assamite
 Stein,Ventrue
 The Ghost In The Machine,Anarch Nosferatu
 Whisper, Caitiff
