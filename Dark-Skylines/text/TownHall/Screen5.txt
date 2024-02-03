@@ -1,6 +1,0 @@
-<b>Avatars</b>
-
-- We prefer quest-compatible
-- Do not clone avatars without permission
-- Avoid height creep
-- shoot for "good" and "medium" perf if you can

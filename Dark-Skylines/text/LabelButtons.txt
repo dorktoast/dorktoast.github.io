@@ -1,8 +1,8 @@
 Anastasia Aran,Brujah
-Alexander,Malkavian
 Antonio Sanchez,Gangrel
 Astrea Young,Keeper of Elysium
 Bella Thorne,Tremere
+Blair Collins,Toreador
 Corvelia Giovanni,Doyen of the Alliance
 Crow,Tremere
 Cyris Gray,Nosferatu
@@ -12,23 +12,20 @@ Devan Marcell,Tremere
 Dr. Kelson O'Dell,Imperial Talon
 Eakiro, Toreador
 Evelyn,Dhampir
-F,Malkavian
-Franco Giovanni, Hatchet
-Garry Gettermin,Gangrel
-Guy Skinner, 
 Havok,Brujah Autarkis
-Jim McCoy,Prince of Caliburn
 Keller,Gangrel
-Lance,Brujah
 Lord Payne,Ventrue Elder | House Redhart
 Max Saber,Ventrue | House Redhart
 Mr. Warlock, 
-Omori,Nosferatu
+Omori Noriko,Nosferatu Whip
 Peter Axton, 
 Sammie Okra,Warden of Caliburn
 Selene Blackwood,Ventrue Primogen | House Redhart
 Seth Gofrey,Tremere 
+Skiz
+Stein,Ventrue
 The Ghost In The Machine,Anarch Nosferatu
+Whisper, Caitiff
 William Bagg,Seneschal
-Wrath, 
+Wrath,Malkavian King
 Zoltan Lionheart,Gangrel
