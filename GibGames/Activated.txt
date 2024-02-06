@@ -14,4 +14,4 @@ TheOwlbearJew
 theowbearjew
 Artzi
 RainIncarnate
-ALLOW (HOLD)
+(ALLOW) HOLD
