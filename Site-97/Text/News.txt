@@ -1,8 +1,10 @@
-This map is based on a section of the upcoming game <b>SCP:Infohazard.</b>
+<b>Update MAR 05 2024</b>
 
-For more info or to follow the project, Join the <color="#979727">GIB Games</color> Discord at:
+- Added Personnel list!
+- Fixed an issue with name tags. Note: If an instance goes on too long, stuff an break. (This is a vrchat issue.)
 
-<color=red><b>https://discord.gib.games</b></color>
+<b>Coming soon:</b>
 
-Follow the kickstarter at:
-<color=yellow>https://gib.games/infohazard</color>
+- Additional moderator tools
+- Avatar gallery
+- Patrons-only break room!
