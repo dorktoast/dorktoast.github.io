@@ -1,8 +1,10 @@
-<b>Administrative Staff<b>
-Lueriel, l84Lunch, RYD3RS0N, Nightdashers
+<b>Update MAR 05 2024</b>
 
-<b>General Personnel</b>
-WeAreBorg, Shreksumus, SwaMusic, Avian, kelwish, raenford, Vandictovoid, DemonicToes, ShyCharlie, LemonadeBalm
+- Added Personnel list!
+- Fixed an issue with name tags. Note: If an instance goes on too long, stuff an break. (This is a vrchat issue.)
 
-<b>Janitor</b>
-DorkToast
+<b>Coming soon:</b>
+
+- Additional moderator tools
+- Avatar gallery
+- Patrons-only break room!
