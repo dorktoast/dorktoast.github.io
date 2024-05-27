@@ -8,4 +8,4 @@ WeAreBorg, Shreksumus, SwaMusic, Avian, kelwish, raenford, Vandictovoid, Demonic
 DorkToast
 
 
-<size=8>Note: "- Zee -" Is not a staff member of Site-97 and never has been. They do not know the owner, the owner has not met them, but the owner has received a lot of reports about them.</size>
+<color="yellow">Please be aware that "Site-97 Roleplay" group is not affiliated with the world creator, and the world creator is not responsible for moderation of their instances. The <b>only</b> admin staff of Site-97 are the administrative staff at the top of this list.</color>
