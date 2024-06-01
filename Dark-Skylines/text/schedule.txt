@@ -1,5 +1,5 @@
-4/26 - Changeling Event
-4/27 - Downtown / Raid
-5/4 - Cemetery
-5/11 - Brighton Beach
-5/25 - Downtown
+6/1 - Brighton Beach (Social)
+6/8 - Downtown
+6/22 - Brighton Beach
+<color="green">6/28&29</color>
+<color="green">Symposium & Conclave</color>
