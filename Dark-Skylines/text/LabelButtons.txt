@@ -1,38 +1,42 @@
 Adna Haddad,Brujah
-Anastasia Aran,Brujah
 Antonio Sanchez,Gangrel
-Astrea Young,Keeper of Elysium
 Ava, Ravnos
 Bella Thorne,Tremere
-Blair Collins,Toreador
+Blair Collins,Constable
+Bruno Stracci,Giovanni
 Corvelia Giovanni,Doyen of the Alliance
-Crow,Tremere
+Crow Tempish,Tremere
 Damien Blackfeather,Warden of Caliburn Island
 Danny DeVitae,Sheriff
-Devan Marcell,Tremere
 Viscount Emil Dragomir, Elder
-Evelyn,Dhampir
 F,Malkavian Elder
 The Ghost In The Machine,Anarch Nosferatu
 Havok,Brujah Autarkis
+<size="13">Lord</size> Joseph Johnson,Ventrue
 Jack Malone,Ghoul
-Keller,Gangrel
 Dr. Kelson O'Dell,Imperial Talon
+Kōmori Otoko, Banu Haqim
 Kris Bailey,Gangrel
 Lord Payne,Ventrue Elder
-Max Saber,Ventrue
-Morgian,Malkavian
+<size="13">Lord</size>Max Saber,Ventrue
+Lucrezia Stracci,Giovanni
+Marcus Thorn, Toreador
+Morgian,Master of the Manor of Madness
 Omori Noriko,Nosferatu Whip
-Psycho, Constable
+Psycho, Advocate of Brighton Beach
 Rigel,Brujah
 Sasha, Ravnos
-Sammie Okra,Advocate of Brighton Beach
-Selene Blackwood,Ventrue Primogen
-Seth Gofrey,Tremere 
-Skiz,Assamite
-Soot,Malkavian
-Stein,Ventrue
-Tristian,Brujah
+Sammie Okra,<i>Warned, Disgraced</i>
+<size="13">Lady</size> Selene Blackwood,Ventrue Primogen
+Seth Gofrey,Tremere
+Sewer Man,Nosferatu
+Soot,Malkavian Ancilla
+Lord Stein,Ventrue
+Sunny,Toreador
+<size="13">Lord</size> Terenzio Rotti, Ventrue
+Tristian,Brujah Primogen
+Vailan Jones,Malkavian
 Whisper, Caitiff
 William Bagg,Seneschal
 Wrath,Malkavian King
+Zee,Boiyd
