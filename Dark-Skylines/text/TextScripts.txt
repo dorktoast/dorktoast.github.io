@@ -1,3 +1,10 @@
 Example presentation:== =="Your Imperial Majesty,==I am <color="yellow">[NAME]</color>, <color="yellow">[Neonate/Ancilla/Elder]</color> of <color="yellow">[Clan/Bloodline]</color>, and in accordance with the Traditions I present myself to you seeking acknowledgement."
 text number 1
 text number 2
+text 3
+text 4==text4==text4
+text 5
+text 6
+text 7
+text 8
+text9
