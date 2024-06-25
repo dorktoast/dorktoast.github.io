@@ -8,6 +8,7 @@ Corvelia Giovanni,Doyen of the Alliance
 Crow Tempish,Tremere
 Damien Blackfeather,Warden of Caliburn Island
 Danny DeVitae,Sheriff
+Dorian,
 Viscount Emil Dragomir,Elder
 F,Malkavian Elder
 The Ghost In The Machine,Anarch Nosferatu
