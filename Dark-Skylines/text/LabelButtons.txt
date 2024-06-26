@@ -26,7 +26,7 @@ Mathias Drake,Toreador
 Morgian,Master of the Manor of Madness
 Mr. Monster,Nosferatu
 Omori Noriko,Nosferatu Whip
-<size="13">His Majesty</size> Kelson O'Dell,👑 Prince of Caliburn Island
+<size="13">His Majesty</size>^Kelson O'Dell, Prince of Caliburn Island
 Psycho,Advocate of Brighton Beach
 Rigel,Brujah
 Rulenthus Brimstone,Tremere
