@@ -1,10 +1,10 @@
-Example presentation:== =="Your Imperial Majesty,==I am <color="yellow">[NAME]</color>, <color="yellow">[Neonate/Ancilla/Elder]</color> of <color="yellow">[Clan/Bloodline]</color>, and in accordance with the Traditions I present myself to you seeking acknowledgement."
-text number 1
-text number 2
-text 3
-text 4==text4==text4
-text 5
-text 6
-text 7
-text 8
-text9
+Example presentation:== =="Your Imperial Majesty,==I am <color="yellow">[NAME]</color>, <color="yellow">[Neonate/Ancilla/Elder]</color> of <color="yellow">[Clan/Bloodline]</color>, (Optional: Generation, sire, etc) and in accordance with the Traditions I present myself to you."
+STSCRIPT 1
+STSCRIPT 2
+STSCRIPT 3
+Your Imperial Majesty,==I am Zennabar, the Dragon, Sidhe of the Freehold of Burlington, Vermont, Monarch of the Kingdom of Apples. As the eldest Fey in all of New England and the Mid Atlantic, I have come to your party for my own amusement, and *humbly* request your hospitality.
+Tristian== ==May I have your attention please. It is my honor to announce the Primus Inter Pares of the 2052 Camarilla Conclave: Her Imperial Majesty, Romana the First of The House Pendragon and the Clan Brujah, Architect of the Camarilla and Imperial Prince of New England, Hartford and New Haven, in the Commonwealth of Connecticut.
+NPCScript 6
+NPCScript 7
+NPCScript 8
+NPCScript 9

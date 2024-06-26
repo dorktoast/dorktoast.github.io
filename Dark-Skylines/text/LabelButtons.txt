@@ -19,14 +19,14 @@ Kōmori Otoko, Banu Haqim
 Kris Bailey,Gangrel
 Kurt,Malkavian
 Lord Payne,Ventrue Elder
-<size="13">Lord</size>Max Saber,Ventrue
+<size="13">Lord</size> Max Saber,Ventrue
 Lucrezia Stracci,Virago of the Alliance
 Marcus Thorn,Toreador
 Mathias Drake,Toreador
 Morgian,Master of the Manor of Madness
 Mr. Monster,Nosferatu
 Omori Noriko,Nosferatu Whip
-Prince O'Dell,His Majesty of Caliburn Island
+<size="13">His Majesty</size> Kelson O'Dell,👑 Prince of Caliburn Island
 Psycho,Advocate of Brighton Beach
 Rigel,Brujah
 Rulenthus Brimstone,Tremere
