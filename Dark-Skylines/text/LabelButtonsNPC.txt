@@ -1,0 +1,9 @@
+<size="6">Her Grace</size>^Lucinde,Justicar of Clan Ventrue
+<size="6">Her Grace</size>^Prudence Stone,Justicar of Clan Nosferatu
+<size="6">Their Grace</size>^Ethereal,Justicar of Clan Malkavian
+<size="6">His Grace</size>^Ian Carfax,Justicar of Clan Tremere
+<size="6">Her Grace</size>^Diana Iadenza,Justicar of Clan Toreador
+<size="6">His Grace</size>^Theo Bell,Justicar of Clan Brujah
+<size="6">His Grace</size>^Cock Robin,Justicar of the Others
+<size="6">Lord</size>^Hardestadt,Inner Circle Member
+<size="6">The Hallowed</size>^Francis Milliner,Shepherd of the Dead
