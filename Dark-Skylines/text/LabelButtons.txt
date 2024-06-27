@@ -8,42 +8,41 @@ Corvelia Giovanni,Doyen of the Alliance
 Crow Tempish,Tremere
 Damien Blackfeather,Warden of Caliburn Island
 Danny DeVitae,Sheriff
-Dorian,
 Viscount Emil Dragomir,Elder
 F,Malkavian Elder
 The Ghost In The Machine,Anarch Nosferatu
 Havok,Brujah Autarkis
-<size="13">Lord</size> Joseph Johnson,Ventrue
+<size="5">Lord</size>^Joseph Johnson,Ventrue
 Jack Malone,Ghoul
 Kōmori Otoko, Banu Haqim
 Kris Bailey,Gangrel
 Kurt,Malkavian
 Lord Payne,Ventrue Elder
-<size="13">Lord</size> Max Saber,Ventrue
+<size="5">Lord</size>^Max Saber,Ventrue
 Lucrezia Stracci,Virago of the Alliance
 Marcus Thorn,Toreador
 Mathias Drake,Toreador
 Morgian,Master of the Manor of Madness
 Mr. Monster,Nosferatu
 Omori Noriko,Nosferatu Whip
-<size="13">His Majesty</size>^Kelson O'Dell, Prince of Caliburn Island
+<size="5">His Majesty</size>^Kelson O'Dell, Prince of Caliburn Island
 Psycho,Advocate of Brighton Beach
 Rigel,Brujah
 Rulenthus Brimstone,Tremere
 Sasha,Ravnos
 Sammie Okra,
-<size="13">Lady</size> Selene Blackwood,Ventrue Primogen
+<size="5">Lady</size>^Selene Blackwood,Ventrue Primogen
 Seth Godfrey,Tremere
 Sewer Man,Nosferatu
 Sister Catherina,Malkavian Ancilla
 Soot,Malkavian Ancilla
-Lord Stein,Ventrue
+<size="5">Lord</size>^Stein,Ventrue
 Sunny,Toreador
-<size="13">Lord</size> Terenzio Rotti, Ventrue
+<size="5">Lord</size>^Terenzio Rotti, Ventrue
 Tristian,Brujah Primogen
 Vailan Jones,Malkavian
 Vega Nox,Malkavian
 Whisper,Caitiff
-William Bagg,Seneschal
+<size="5">His Highness</size>^William Bagg,Seneschal
 Wrath,Malkavian King
 Zee,Boiyd

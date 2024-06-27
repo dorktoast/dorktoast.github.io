@@ -1,24 +1,25 @@
-<size="5">Her Grace</size>^Lucinde,Justicar of Clan Ventrue
-<size="5">Her Grace</size>^Prudence Stone,Justicar of Clan Nosferatu
-<size="5">Their Grace</size>^Ethereal,Justicar of Clan Malkavian
-<size="5">His Grace</size>^Ian Carfax,Justicar of Clan Tremere
-<size="5">Her Grace</size>^Diana Iadenza,Justicar of Clan Toreador
-<size="5">His Grace</size>^Theo Bell,Justicar of Clan Brujah
-<size="5">His Grace</size>^Cock Robin,Justicar of the Others
-<size="5">Lord</size>^Hardestadt,Inner Circle Member
-<size="5">The Hallowed</size>^Francis Milliner,Shepherd of the Dead
-<size="5">Her Imperial Majesty</size>^Romana Pendragon,Primus Inter Pares
-<size="5">His Imperial Majesty</size>^William Biltmore,Prince of Boston
-<size="5">His Grace</size>^Stanford Warwick,Prince of Providence
-<size="5">His Majesty</size>^Zennabar the Dragon,King of Apples
-<size="5">His Majesty</size>^Fernando Castillo,Prince of Buenos Aires
-Emoji,Imperial Harpy of Boston
-<size="5">Her Majesty</size>^Ivana Devereaux,Prince of Worcester
 <size="5">Archon</size>^Adeline Durand,Clan Ventrue
-<size="5">Archon</size>^Francois Di Montagne,Banu Haqim
+<size="5">Her Grace</size>^Diana Iadenza,Justicar of Clan Toreador
+Dorian,Clan Lasombra
+<size="5">Their Grace</size>^Ethereal,Justicar of Clan Malkavian
 <size="5">Archon</size>^Fergus Alexander,Clan Gangrel
+<size="5">His Majesty</size>^Fernando Castillo,Prince of Buenos Aires
+<size="5">Archon</size>^Francois Di Montagne,Banu Haqim
+<size="5">The Hallowed</size>^Francis Milliner,Shepherd of the Dead
+<size="5">Lord</size>^Hardestadt,Inner Circle Member
+<size="5">His Grace</size>^Ian Carfax,Justicar of Clan Tremere
+<size="5">Her Majesty</size>^Ivana Devereaux,Prince of Worcester
 <size="5">Archon</size>^Julius,Clan Brujah
 <size="5">Archon</size>^Lami,Clan Toreador
 <size="5">Archon</size>^Lithrac,Samedi
+<size="5">Her Grace</size>^Lucinde,Justicar of Clan Ventrue
+<size="5">Her Grace</size>^Prudence Stone,Justicar of Clan Nosferatu
+<size="5">Her Imperial Majesty</size>^Romana Pendragon,Primus Inter Pares
 <size="5">Archon Praetor</size>^Rudiger Kleiss,Clan Malkavian
+<size="5">His Grace</size>^Stanford Warwick,Prince of Providence
+<size="5">His Grace</size>^Theo Bell,Justicar of Clan Brujah
+<size="5">His Imperial Majesty</size>^William Biltmore,Prince of Boston
+<size="5">His Majesty</size>^Zennabar the Dragon,King of Apples
 <size="5">Alastor</size>^Zack Shale,Archon to Ian Carfax
+<size="5">His Grace</size>^Cock Robin,Justicar of the Others
+Emoji,Imperial Harpy of Boston
