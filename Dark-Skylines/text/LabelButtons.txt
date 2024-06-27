@@ -3,7 +3,7 @@ Antonio Sanchez,Gangrel
 Ava,Ravnos
 Bella Thorne,Tremere
 Blair Collins,Constable of Brighton Beach
-Bruno Stracci,Hatchet of the Alliance
+Bruno Stracci,Hatchet of Caliburn
 Corvelia Giovanni,Doyen of the Alliance
 Crow Tempish,Tremere
 Damien Blackfeather,Warden of Caliburn Island
@@ -19,7 +19,7 @@ Kris Bailey,Gangrel
 Kurt,Malkavian
 Lord Payne,Ventrue Elder
 <size="5">Lord</size>^Max Saber,Ventrue
-Lucrezia Stracci,Virago of the Alliance
+Lucrezia Stracci,Virago of Caliburn
 Marcus Thorn,Toreador
 Mathias Drake,Toreador
 Morgian,Master of the Manor of Madness
@@ -30,7 +30,7 @@ Psycho,Advocate of Brighton Beach
 Rigel,Brujah
 Rulenthus Brimstone,Tremere
 Sasha,Ravnos
-Sammie Okra,
+Sammie Okra,Caitiff
 <size="5">Lady</size>^Selene Blackwood,Ventrue Primogen
 Seth Godfrey,Tremere
 Sewer Man,Nosferatu
@@ -39,7 +39,7 @@ Soot,Malkavian Ancilla
 <size="5">Lord</size>^Stein,Ventrue
 Sunny,Toreador
 <size="5">Lord</size>^Terenzio Rotti, Ventrue
-Tristian,Brujah Primogen
+<size="5">Sir</size>^Tristian,Brujah Primogen
 Vailan Jones,Malkavian
 Vega Nox,Malkavian
 Whisper,Caitiff
