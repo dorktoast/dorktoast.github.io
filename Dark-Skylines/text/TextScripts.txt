@@ -1,5 +1,5 @@
 Example presentation:== =="Your Imperial Majesty,==I am <color="yellow">[NAME]</color>, <color="yellow">[Neonate/Ancilla/Elder]</color> of <color="yellow">[Clan/Bloodline]</color>, (Optional: Generation, sire, etc) and in accordance with the Traditions I present myself to you."
-STSCRIPT 1
+Your Graces, Noble Archons, Princes, Elders, members of the Ivory Tower, and other guests: Welcome to the domain of Hartford. As Primus Inter Pares I welcome the Justicars and Archons to my Domain. I furthermore <i>Command</i> all private quarrels and conflicts be taken outside away from the guests. My Sheriff and His Deputies, as well as the Archons and Servires present are <i>Sanctioned</i> to remove anyone whom they deem to be acting inappropriately. I will now receive all guests who wish to present themselves to receive my Hospitality.
 STSCRIPT 2
 STSCRIPT 3
 Your Imperial Majesty,==I am Zennabar, the Dragon, Sidhe of the Freehold of Burlington, Vermont, Monarch of the Kingdom of Apples. As the eldest Fey in all of New England and the Mid Atlantic, I have come to your party for my own amusement, and *humbly* request your hospitality.

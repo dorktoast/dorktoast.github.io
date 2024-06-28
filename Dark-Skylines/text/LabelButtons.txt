@@ -39,7 +39,7 @@ Soot,Malkavian Ancilla
 <size="5">Lord</size>^Stein,Ventrue
 Sunny,Toreador
 <size="5">Lord</size>^Terenzio Rotti, Ventrue
-<size="5">Sir</size>^Tristian,Brujah Primogen
+<size="5">Sir</size>^Tristian Allerdale,Brujah Primogen
 Vailan Jones,Malkavian
 Vega Nox,Malkavian
 Whisper,Caitiff
