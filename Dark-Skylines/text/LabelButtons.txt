@@ -20,6 +20,7 @@ Kurt,Malkavian
 Lord Payne,Ventrue Elder
 <size="5">Lord</size>^Max Saber,Ventrue
 Lucrezia Stracci,Virago of Caliburn
+Marcelle Dupont,Toreador Primogen
 Marcus Thorn,Toreador
 Mathias Drake,Toreador
 Morgian,Master of the Manor of Madness
