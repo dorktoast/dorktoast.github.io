@@ -1,30 +1,38 @@
 Adna Haddad,Brujah
+Aldrich,Banu Haqim
 Antonio Sanchez,Gangrel
+Auguste Lagrange,
 Ava,Ravnos
-Bella Thorne,Tremere
+Bes,Wraith
 Blair Collins,Constable of Brighton Beach
 Bruno Stracci,Hatchet of Caliburn
-Corvelia Giovanni,Doyen of the Alliance
-Crow Tempish,Tremere
+Corveilia Giovanni,Doyen of the Alliance
+<size="5">Dr.</size>^Crow Tempish,Tremere
 Damien Blackfeather,Warden of Caliburn Island
 Danny DeVitae,Sheriff
 Viscount Emil Dragomir,Elder
+Evellen Willow,Childe of Malkav
 F,Malkavian Elder
+<size="5">Lord</size>^Gabriel Payne,Ventrue Elder
 The Ghost In The Machine,Anarch Nosferatu
+Grace Dixon,Toreador
+Grease,A Very Big Rat
 Havok,Brujah Autarkis
+Hunter Krown,Banu Haqim
 <size="5">Lord</size>^Joseph Johnson,Ventrue
-Jack Malone,Ghoul
-Kōmori Otoko, Banu Haqim
+Khar-Duras,Setite
+Kōmori Otoko,Banu Haqim
 Kris Bailey,Gangrel
 Kurt,Malkavian
-Lord Payne,Ventrue Elder
-<size="5">Lord</size>^Max Saber,Ventrue
+Leona Wood,Malkavian
 Lucrezia Stracci,Virago of Caliburn
 Marcelle Dupont,Toreador Primogen
 Marcus Thorn,Toreador
 Mathias Drake,Toreador
+<size="5">Lord</size>^Max Saber,Ventrue
 Morgian,Master of the Manor of Madness
 Mr. Monster,Nosferatu
+Nicodemus Tempus,Tremere
 Omori Noriko,Nosferatu Whip
 <size="5">His Majesty</size>^Kelson O'Dell, Prince of Caliburn Island
 Psycho,Advocate of Brighton Beach
@@ -35,15 +43,18 @@ Sammie Okra,Caitiff
 <size="5">Lady</size>^Selene Blackwood,Ventrue Primogen
 Seth Godfrey,Tremere
 Sewer Man,Nosferatu
-Sister Catherina,Malkavian Ancilla
+Sister Catherina,Malkavian
 Soot,Malkavian Ancilla
 <size="5">Lord</size>^Stein,Ventrue
+Steven Fox-Bauer,Malkavian
 Sunny,Toreador
 <size="5">Lord</size>^Terenzio Rotti, Ventrue
 <size="5">Sir</size>^Tristian Allerdale,Brujah Primogen
+Vanessa,Malkavian
 Vailan Jones,Malkavian
 Vega Nox,Malkavian
 Whisper,Caitiff
 <size="5">His Highness</size>^William Bagg,Seneschal
-Wrath,Malkavian King
+Wrath,Malkavian
+Yoshi,
 Zee,Boiyd
