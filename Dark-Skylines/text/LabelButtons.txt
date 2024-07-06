@@ -37,9 +37,7 @@ Omori Noriko,Nosferatu Whip
 <size="5">His Majesty</size>^Kelson O'Dell, Prince of Caliburn Island
 Psycho,Advocate of Brighton Beach
 Rigel,Brujah
-Rulenthus Brimstone,Tremere
 Sasha,Ravnos
-Sammie Okra,Caitiff
 <size="5">Lady</size>^Selene Blackwood,Ventrue Primogen
 Seth Godfrey,Tremere
 Sewer Man,Nosferatu
@@ -54,7 +52,6 @@ Vanessa,Malkavian
 Vailan Jones,Malkavian
 Vega Nox,Malkavian
 Whisper,Caitiff
-<size="5">His Highness</size>^William Bagg,Seneschal
 Wrath,Malkavian
 Yoshi,
 Zee,Boiyd
