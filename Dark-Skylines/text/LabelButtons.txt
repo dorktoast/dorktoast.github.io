@@ -1,7 +1,9 @@
+Aereto Erebi,Giovanni
 Adna Haddad,Brujah
 Aldrich,Banu Haqim
+Alicia O'Dracon,Tremere
 Antonio Sanchez,Gangrel
-Auguste Lagrange,
+Auguste Lagrange, 
 Ava,Ravnos
 Bes,Wraith
 Blair Collins,Constable of Brighton Beach
@@ -16,7 +18,7 @@ F,Malkavian Elder
 <size="5">Lord</size>^Gabriel Payne,Ventrue Elder
 The Ghost In The Machine,Anarch Nosferatu
 Grace Dixon,Toreador
-Grease,A Very Big Rat
+Grease,A <b>Very</b> Big Rat
 Havok,Brujah Autarkis
 Hunter Krown,Banu Haqim
 <size="5">Lord</size>^Joseph Johnson,Ventrue
@@ -32,7 +34,7 @@ Mathias Drake,Toreador
 <size="5">Lord</size>^Max Saber,Ventrue
 Morgian,Master of the Manor of Madness
 Mr. Monster,Nosferatu
-Nicodemus Tempus,Tremere
+Nicodemus Tempus,Tremere Ancilla
 Omori Noriko,Nosferatu Whip
 <size="5">His Majesty</size>^Kelson O'Dell, Prince of Caliburn Island
 Psycho,Advocate of Brighton Beach
@@ -53,5 +55,5 @@ Vailan Jones,Malkavian
 Vega Nox,Malkavian
 Whisper,Caitiff
 Wrath,Malkavian
-Yoshi,
+Yoshi, 
 Zee,Boiyd
