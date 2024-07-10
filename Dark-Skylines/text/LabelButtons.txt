@@ -7,7 +7,7 @@ Auguste Lagrange,
 Ava,Ravnos
 Bes,Wraith
 Blair Collins,Constable of Brighton Beach
-Bruno Stracci,Hatchet of Caliburn
+Bruno Stracci,Hatchet of the Alliance
 Corveilia Giovanni,Doyen of the Alliance
 <size="5">Dr.</size>^Crow Tempish,Tremere
 Damien Blackfeather,Warden of Caliburn Island
@@ -16,10 +16,10 @@ Viscount Emil Dragomir,Elder
 Evellen Willow,Childe of Malkav
 F,Malkavian Elder
 <size="5">Lord</size>^Gabriel Payne,Ventrue Elder
-The Ghost In The Machine,Anarch Nosferatu
+The Ghost In The Machine,Architect of Brighton Beach
 Grace Dixon,Toreador
 Grease,A <b>Very</b> Big Rat
-Havok,Brujah Autarkis
+Havok,Archon to Prudence Stone
 Hunter Krown,Banu Haqim
 <size="5">Lord</size>^Joseph Johnson,Ventrue
 Khar-Duras,Setite
@@ -27,7 +27,7 @@ Kōmori Otoko,Banu Haqim
 Kris Bailey,Gangrel
 Kurt,Malkavian
 Leona Wood,Malkavian
-Lucrezia Stracci,Virago of Caliburn
+Lucrezia Stracci,Virago of the Alliance
 Marcelle Dupont,Toreador Primogen
 Marcus Thorn,Toreador
 Mathias Drake,Toreador
@@ -40,11 +40,11 @@ Omori Noriko,Nosferatu Whip
 Psycho,Advocate of Brighton Beach
 Rigel,Brujah
 Sasha,Ravnos
-<size="5">Lady</size>^Selene Blackwood,Ventrue Primogen
+<size="5">Lady</size>^Selene Blackwood,Seneschal and Primogen
 Seth Godfrey,Tremere
 Sewer Man,Nosferatu
 Sister Catherina,Malkavian
-Soot,Malkavian Ancilla
+Soot,Keeper of Elysium
 <size="5">Lord</size>^Stein,Ventrue
 Steven Fox-Bauer,Malkavian
 Sunny,Toreador
