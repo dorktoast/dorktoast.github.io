@@ -4,33 +4,32 @@ Aldrich,Banu Haqim
 Alicia O'Dracon,Tremere
 Antonio Sanchez,Gangrel
 Auguste Lagrange, 
-Ava,Ravnos
-Bes,Wraith
+Ava,Ravnos Ancilla
+Bes,Alliance Wraith
 Blair Collins,Constable of Brighton Beach
 Bruno Stracci,Hatchet of the Alliance
 Corveilia Giovanni,Doyen of the Alliance
 <size="5">Dr.</size>^Crow Tempish,Tremere
 Damien Blackfeather,Warden of Caliburn Island
 Danny DeVitae,Sheriff
+Davik Checkmanov,Robotic Scientist
 Viscount Emil Dragomir,Elder
 Evellen Willow,Childe of Malkav
 F,Malkavian Elder
+Frank Horrigan,Independent Alliance
 <size="5">Lord</size>^Gabriel Payne,Ventrue Elder
 The Ghost In The Machine,Architect of Brighton Beach
 Grace Dixon,Toreador
 Grease,A <b>Very</b> Big Rat
 Havok,Archon to Prudence Stone
-Hunter Krown,Banu Haqim
+Hunter Krown,Moon's Eclipse
+Johnny Diamond,Toreador
 <size="5">Lord</size>^Joseph Johnson,Ventrue
-Khar-Duras,Setite
-Kōmori Otoko,Banu Haqim
+Khar-Duras,Follower of Set
 Kris Bailey,Gangrel
-Kurt,Malkavian
-Leona Wood,Malkavian
 Lucrezia Stracci,Virago of the Alliance
 Marcelle Dupont,Toreador Primogen
 Marcus Thorn,Toreador
-Mathias Drake,Toreador
 <size="5">Lord</size>^Max Saber,Ventrue
 Morgian,Master of the Manor of Madness
 Mr. Monster,Nosferatu
@@ -38,22 +37,22 @@ Nicodemus Tempus,Tremere Ancilla
 Omori Noriko,Nosferatu Whip
 <size="5">His Majesty</size>^Kelson O'Dell, Prince of Caliburn Island
 Psycho,Advocate of Brighton Beach
+Ricky James,Sons of Discord
 Rigel,Brujah
 Sasha,Ravnos
-<size="5">Lady</size>^Selene Blackwood,Seneschal and Primogen
-Seth Godfrey,Tremere
+<size="5">Lady</size>^Selene Blackwood,Seneschal of Caliburn
 Sewer Man,Nosferatu
 Sister Catherina,Malkavian
+Sobeck,The Twin Serpent
+Sobecka,The Twin Serpent
 Soot,Keeper of Elysium
 <size="5">Lord</size>^Stein,Ventrue
 Steven Fox-Bauer,Malkavian
-Sunny,Toreador
-<size="5">Lord</size>^Terenzio Rotti, Ventrue
+Tony Milliner,Ghoul
 <size="5">Sir</size>^Tristian Allerdale,Brujah Primogen
 Vanessa,Malkavian
 Vailan Jones,Malkavian
-Vega Nox,Malkavian
 Whisper,Caitiff
-Wrath,Malkavian
-Yoshi, 
+Wrath Bellangelus King,Showman
+Yoshi,Rat
 Zee,Boiyd
