@@ -1,0 +1,3 @@
+137,109,-68,0,0,0,There was a fight here.
+150,110,-68,0,0,0,There was a fight here too!
+100,100,-68,0,0,0,There wasn't a fight here
