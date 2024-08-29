@@ -36,7 +36,7 @@ Marcelle Dupont,Toreador Primogen
 Marckus Morbin,Nosferatu
 Marcus Thorn,Toreador Whip
 Mr. Monster,Nosferatu
-Nick Paul,Ventrue
+<size="5">Lord</size>^Nick Paul,Ventrue
 Omori Noriko,Harpy of Caliburn
 Paul Redbeck,Anarch Movement
 Prospect,Psycho's Ghoul
