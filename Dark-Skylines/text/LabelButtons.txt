@@ -1,57 +1,58 @@
-Aereto Erebi,Giovanni
 Adna Haddad,Brujah
-Aldrich,Banu Haqim
-Alicia O'Dracon,Tremere
-Antonio Sanchez,Gangrel
-Auguste Lagrange, 
+Aereto Erebi,Giovanni
+Akai Hasami,Psycho's Ghoul
+Alfrid,Ghoul
+The Architect,Elder
+Antonio Sanchez,Constable of Brighton Beach
 Ava,Ravnos Ancilla
 Bes,Alliance Wraith
-Blair Collins,Constable of Brighton Beach
+Brandon,Nosferatu
 Bruno Stracci,Hatchet of the Alliance
+Cabrakan,Follower of Set
+Carl Redbeck,Independent Alliance
 Corveilia Giovanni,Doyen of the Alliance
-<size="5">Dr.</size>^Crow Tempish,Tremere
+<size="5">Dr.</size>^Crow Tempish,Tremere Primogen
 Damien Blackfeather,Warden of Caliburn Island
 Danny DeVitae,Sheriff
 Davik Checkmanov,Robotic Scientist
-Dodge Greenfield,Ghoul
-Viscount Emil Dragomir,Elder
-Evellen Willow,Childe of Malkav
+Dorian,Lasombra
+Evellen Willow,Malkavian Primogen
+Ev,Dhampir
 F,Malkavian Elder
-Frank Horrigan,Independent Alliance
-<size="5">Lord</size>^Gabriel Payne,Ventrue Elder
+<size="5">Lord</size>^Gabriel Payne,Scourge and Ventrue Primogen
+Glitch,Web Walker
 The Ghost In The Machine,Architect of Brighton Beach
 Grace Dixon,Toreador
 Grease,A <b>Very</b> Big Rat
+Henry Straut,Caitiff
 Hunter Krown,Moon's Eclipse
+Jack,Toreador
 Johnny Diamond,Toreador
 <size="5">Lord</size>^Joseph Johnson,Ventrue
+Kelson O'Dell,Elder Lasombra
 Khar-Duras,Follower of Set
-Kris Bailey,Gangrel
 Lucrezia Stracci,Virago of the Alliance
 Marcelle Dupont,Toreador Primogen
-Marcus Thorn,Toreador
-<size="5">Lord</size>^Max Saber,Ventrue
-Morgian,Master of the Manor of Madness
+Marckus Morbin,Nosferatu
+Marcus Thorn,Toreador Whip
 Mr. Monster,Nosferatu
-Omori Noriko,Nosferatu Whip
-<size="5">His Majesty</size>^Kelson O'Dell, Prince of Caliburn Island
+Nick Paul,Ventrue
+Omori Noriko,Harpy of Caliburn
+Paul Redbeck,Anarch Movement
+Prospect,Psycho's Ghoul
 Psycho,Advocate of Brighton Beach
-Ricky James,Sons of Discord
+Ricky James,Son of Discord
 Rigel,Brujah
 Sasha,Ravnos
-<size="5">Lady</size>^Selene Blackwood,Seneschal of Caliburn
+<size="5">Her Majesty</size>^Selene Blackwood,Prince of Caliburn Island
 Sewer Man,Nosferatu
-Sister Catherina,Malkavian
-Sobeck,The Twin Serpent
+Sister Catherina,Malkavian Whip
+Sobeck,Doyen of the Alliance
 Sobecka,The Twin Serpent
 Soot,Keeper of Elysium
-<size="5">Lord</size>^Stein,Ventrue
-Steven Fox-Bauer,Malkavian
-Tony Milliner,Ghoul
+Tony Milliner,Giovanni
 <size="5">Sir</size>^Tristian Allerdale,Brujah Primogen
-Vanessa,Malkavian
-Vailan Jones,Malkavian
+Valentino,Giovanni
 Whisper,Caitiff
-Wrath Bellangelus King,Showman
 Yoshi,Rat
 Zee,Boiyd
