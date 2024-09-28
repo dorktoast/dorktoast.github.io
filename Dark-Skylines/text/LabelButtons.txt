@@ -1,6 +1,7 @@
 Adna Haddad,Brujah
 Aereto Erebi,Giovanni
-Akai Hasami,Psycho's Ghoul
+Akai Hasami,Ghoul
+Aldwin,Brujah
 Alfrid,Ghoul
 The Architect,Elder
 Antonio Sanchez,Constable of Brighton Beach
@@ -17,20 +18,18 @@ Danny DeVitae,Sheriff
 Davik Checkmanov,Robotic Scientist
 Dorian,Lasombra
 Evellen Willow,Malkavian Primogen
-Ev,Dhampir
 F,Malkavian Elder
 <size="5">Lord</size>^Gabriel Payne,Scourge and Ventrue Primogen
 Glitch,Web Walker
-The Ghost In The Machine,Architect of Brighton Beach
 Grace Dixon,Toreador
 Grease,A <b>Very</b> Big Rat
 Henry Straut,Caitiff
-Hunter Krown,Moon's Eclipse
 Jack,Toreador
 Johnny Diamond,Toreador
 <size="5">Lord</size>^Joseph Johnson,Ventrue
 Kelson O'Dell,Elder Lasombra
-Khar-Duras,Follower of Set
+Liz Greer,Tremere
+Lucinda Arkrose,Toreador
 Lucrezia Stracci,Virago of the Alliance
 Marcelle Dupont,Toreador Primogen
 Marckus Morbin,Nosferatu
@@ -38,6 +37,7 @@ Marcus Thorn,Toreador Whip
 Mr. Monster,Nosferatu
 <size="5">Lord</size>^Nick Paul,Ventrue
 Omori Noriko,Harpy of Caliburn
+Orpheus,Caitiff
 Paul Redbeck,Anarch Movement
 Prospect,Psycho's Ghoul
 Psycho,Advocate of Brighton Beach
@@ -45,11 +45,10 @@ Ricky James,Son of Discord
 Rigel,Brujah
 Sasha,Ravnos
 <size="5">Her Majesty</size>^Selene Blackwood,Prince of Caliburn Island
-Sewer Man,Nosferatu
-Sister Catherina,Malkavian Whip
 Sobeck,Doyen of the Alliance
-Sobecka,The Twin Serpent
+Sobecka,Guardian of Sacred Spaces
 Soot,Keeper of Elysium
+Tobias Jebidiah Calhoun,Toreador
 Tony Milliner,Giovanni
 <size="5">Sir</size>^Tristian Allerdale,Brujah Primogen
 Valentino,Giovanni
