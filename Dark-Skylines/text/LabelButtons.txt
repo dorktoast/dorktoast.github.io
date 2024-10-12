@@ -2,12 +2,13 @@ Adna Haddad,Brujah
 Aereto Erebi,Giovanni
 Akai Hasami,Ghoul
 Aldwin,Brujah
+Alex Uranus,Tremere
 Alfrid,Ghoul
 The Architect,Elder
 Antonio Sanchez,Constable of Brighton Beach
 Ava,Ravnos Ancilla
 Bes,Alliance Wraith
-Brandon,Nosferatu
+Brandon,Talon
 Bruno Stracci,Hatchet of the Alliance
 Cabrakan,Follower of Set
 Carl Redbeck,Independent Alliance
@@ -16,9 +17,10 @@ Corveilia Giovanni,Doyen of the Alliance
 Damien Blackfeather,Warden of Caliburn Island
 Danny DeVitae,Sheriff
 Davik Checkmanov,Robotic Scientist
-Dorian,Lasombra
+Dorian,Keeper of Elysium
 Evellen Willow,Malkavian Primogen
 F,Malkavian Elder
+Fenrir,Assamite
 <size="5">Lord</size>^Gabriel Payne,Scourge and Ventrue Primogen
 Glitch,Web Walker
 Grace Dixon,Toreador
@@ -47,10 +49,10 @@ Sasha,Ravnos
 <size="5">Her Majesty</size>^Selene Blackwood,Prince of Caliburn Island
 Sobeck,Doyen of the Alliance
 Sobecka,Guardian of Sacred Spaces
-Soot,Keeper of Elysium
+Soot,Harpy of Caliburn
 Tobias Jebidiah Calhoun,Toreador
 Tony Milliner,Giovanni
-<size="5">Sir</size>^Tristian Allerdale,Brujah Primogen
+<size="5">His Highness</size>^Tristian Allerdale,Seneschal of Caliburn
 Valentino,Giovanni
 Whisper,Caitiff
 Yoshi,Rat
