@@ -7,7 +7,6 @@ Alfrid,Ghoul
 The Architect,Elder
 Antonio Sanchez,Constable of Brighton Beach
 Ava,Ravnos Ancilla
-Bes,Alliance Wraith
 Brandon,Talon
 Bruno Stracci,Hatchet of the Alliance
 Cabrakan,Follower of Set
@@ -21,17 +20,18 @@ Dorian,Keeper of Elysium
 Evellen Willow,Malkavian Primogen
 F,Malkavian Elder
 Fenrir,Assamite
-<size="5">Lord</size>^Gabriel Payne,Scourge and Ventrue Primogen
+<size="5">Lord</size>^Gabriel Payne,Scourge & Ventrue Primogen
 Glitch,Web Walker
 Grace Dixon,Toreador
-Grease,A <b>Very</b> Big Rat
+Grease,A <b>Very</b> Chonky Rat
 Henry Straut,Caitiff
 Jack,Toreador
 Johnny Diamond,Toreador
 <size="5">Lord</size>^Joseph Johnson,Ventrue
 Kelson O'Dell,Elder Lasombra
-Liz Greer,Tremere
+<size="5">Dr.</size>^Liz Greer,Tremere
 Lucinda Arkrose,Toreador
+Lucky,Psycho's childe
 Lucrezia Stracci,Virago of the Alliance
 Marcelle Dupont,Toreador Primogen
 Marckus Morbin,Nosferatu
@@ -41,15 +41,14 @@ Mr. Monster,Nosferatu
 Omori Noriko,Harpy of Caliburn
 Orpheus,Caitiff
 Paul Redbeck,Anarch Movement
-Prospect,Psycho's Ghoul
 Psycho,Advocate of Brighton Beach
 Ricky James,Son of Discord
 Rigel,Brujah
-Sasha,Ravnos
+Sasha Stormcrow,Agent of chaos
 <size="5">Her Majesty</size>^Selene Blackwood,Prince of Caliburn Island
-Sobeck,Doyen of the Alliance
-Sobecka,Guardian of Sacred Spaces
-Soot,Harpy of Caliburn
+Sobek,Doyen of the Alliance
+Sobeka,Guardian of Sacred Spaces
+Soot,<i>Forsaken</i>
 Tobias Jebidiah Calhoun,Toreador
 Tony Milliner,Giovanni
 <size="5">His Highness</size>^Tristian Allerdale,Seneschal of Caliburn
