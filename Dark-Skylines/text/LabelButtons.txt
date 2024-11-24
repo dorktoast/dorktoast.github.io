@@ -1,58 +1,59 @@
 Adna Haddad,Brujah
-Aereto Erebi,Giovanni
+Aereto "Stracci" Erebi,Giovanni
 Akai Hasami,Ghoul
-Aldwin,Brujah
-Alex Uranus,Tremere
+Aldwin Forgewright,Brujah Primogen
+<size="5">Prof.</size>^Alex Uranus,Seneschal of Caliburn Island
 Alfrid,Ghoul
 The Architect,Elder
 Antonio Sanchez,Constable of Brighton Beach
 Ava,Ravnos Ancilla
-Brandon,Talon
+Brandon,Talon of Caliburn
 Bruno Stracci,Hatchet of the Alliance
 Cabrakan,Follower of Set
-Carl Redbeck,Independent Alliance
-Corveilia Giovanni,Doyen of the Alliance
+Cali Clara Fornia,Child of Malkav
+Carl Redbeck,Ghoul
+Caroline,Cat
+Corveilia Giovanni, 
 <size="5">Dr.</size>^Crow Tempish,Tremere Primogen
-Damien Blackfeather,Warden of Caliburn Island
+D,Toreador
+Damien Blackfeather,Gangrel
 Danny DeVitae,Sheriff
-Davik Checkmanov,Robotic Scientist
 Dorian,Keeper of Elysium
+Emma Montes,LyricallyUndead
 Evellen Willow,Malkavian Primogen
 F,Malkavian Elder
-Fenrir,Assamite
+"Fenrir",Blind
 <size="5">Lord</size>^Gabriel Payne,Scourge & Ventrue Primogen
 Glitch,Web Walker
-Grace Dixon,Toreador
 Grease,A <b>Very</b> Chonky Rat
 Henry Straut,Caitiff
-Jack,Toreador
-Johnny Diamond,Toreador
+Jack the Ripper,Toreador
+Jaquline Rose Vesper,Warden of Blood
+Jennifer Halligan,Paranormal Photographer
 <size="5">Lord</size>^Joseph Johnson,Ventrue
 Kelson O'Dell,Elder Lasombra
-<size="5">Dr.</size>^Liz Greer,Tremere
-Lucinda Arkrose,Toreador
-Lucky,Psycho's childe
-Lucrezia Stracci,Virago of the Alliance
-Marcelle Dupont,Toreador Primogen
-Marckus Morbin,Nosferatu
-Marcus Thorn,Toreador Whip
-Mr. Monster,Nosferatu
+Lucrezia Stracci,Doyen of the Alliance
+Marcelle Dupont,Toreador
+Marcus Thorn,Toreador Primogen
 <size="5">Lord</size>^Nick Paul,Ventrue
 Omori Noriko,Harpy of Caliburn
 Orpheus,Caitiff
-Paul Redbeck,Anarch Movement
+Paul Redbeck,Anarch
 Psycho,Advocate of Brighton Beach
 Ricky James,Son of Discord
 Rigel,Brujah
-Sasha Stormcrow,Agent of chaos
+Sammie Okra,Wraith
+Sasha Stormcrow,Agent of Chaos
 <size="5">Her Majesty</size>^Selene Blackwood,Prince of Caliburn Island
-Sobek,Doyen of the Alliance
-Sobeka,Guardian of Sacred Spaces
-Soot,<i>Forsaken</i>
-Tobias Jebidiah Calhoun,Toreador
+Skeeter,Childe of Malkav
+Soot,Harpy of Caliburn Island
+Strife,Giovanni
+<size="5">Mr.</size>^Tobias Jebidiah Calhoun,Lawyerador
 Tony Milliner,Giovanni
-<size="5">His Highness</size>^Tristian Allerdale,Seneschal of Caliburn
+Tyrin Arbor,Gangrel
 Valentino,Giovanni
+Vince Stone,Ravnos
 Whisper,Caitiff
 Yoshi,Rat
 Zee,Boiyd
+Zyx,Gangrel
