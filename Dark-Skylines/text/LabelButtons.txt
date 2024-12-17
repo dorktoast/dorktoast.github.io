@@ -35,7 +35,7 @@ Kelson O'Dell,Elder Lasombra
 Marcelle Dupont,Toreador
 Marcus Thorn,Toreador Primogen
 <size="5">Lord</size>^Nick Paul,Ventrue Whip
-Natalia Leone,Elder Scourge of the Seas
+<size="5">Elder</size>^Natalia Leone,Scourge of the Seas
 Omori Noriko, 
 Orpheus,Caitiff
 Paul Redbeck,Anarch
