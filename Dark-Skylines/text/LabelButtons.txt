@@ -1,42 +1,42 @@
 Adna Haddad,Brujah
-Aereto "Stracci" Erebi,Giovanni
 Akai Hasami,Ghoul
-Aldwin Forgewright,Brujah Primogen
+Aldwin Forgewright,Architect of Brighton Beach
 <size="5">Prof.</size>^Alex Uranus,Seneschal of Caliburn Island
-Alfrid,Ghoul
-The Architect,Elder
 Antonio Sanchez,Constable of Brighton Beach
-Ava,Ravnos Ancilla
+The Architect,Elder
+Ava,IA Minister
+<size="5">Lord-Consul</size>^Axocayo,Ventrue Ghoul
 Brandon,Talon of Caliburn
 Bruno Stracci,Hatchet of the Alliance
-Cabrakan,Follower of Set
-Cali Clara Fornia,Child of Malkav
+Cabrakan,Hatchet of the Alliance
+Cali Clara Fornia,Agent of Blood
 Carl Redbeck,Ghoul
 Caroline,Cat
 Corveilia Giovanni, 
-<size="5">Dr.</size>^Crow Tempish,Tremere Primogen
+<size="5">Dr.</size>^Crow Tempish, 
 D,Toreador
 Damien Blackfeather,Gangrel
 Danny DeVitae,Sheriff
-Dorian,Keeper of Elysium
-Emma Montes,LyricallyUndead
+Dorian,Primogen of the Others
+Emma Montes,Whip of the Others
 Evellen Willow,Malkavian Primogen
 F,Malkavian Elder
-"Fenrir",Blind
+"Fenrir",[Blind] Ambassador of Brighton Beach
 <size="5">Lord</size>^Gabriel Payne,Scourge & Ventrue Primogen
+Ghost in the Machine, 
 Glitch,Web Walker
 Grease,A <b>Very</b> Chonky Rat
 Henry Straut,Caitiff
-Jack the Ripper,Toreador
+Jack the Ripper,Autarkis Toreador
 Jaquline Rose Vesper,Warden of Blood
 Jennifer Halligan,Paranormal Photographer
-<size="5">Lord</size>^Joseph Johnson,Ventrue
+<size="5">Lord</size>^Joseph Johnson,Doyen of the Alliance
 Kelson O'Dell,Elder Lasombra
-Lucrezia Stracci,Doyen of the Alliance
 Marcelle Dupont,Toreador
 Marcus Thorn,Toreador Primogen
-<size="5">Lord</size>^Nick Paul,Ventrue
-Omori Noriko,Harpy of Caliburn
+<size="5">Lord</size>^Nick Paul,Ventrue Whip
+Natalia Leone,Elder Scourge of the Seas
+Omori Noriko, 
 Orpheus,Caitiff
 Paul Redbeck,Anarch
 Psycho,Advocate of Brighton Beach
@@ -45,9 +45,11 @@ Rigel,Brujah
 Sammie Okra,Wraith
 Sasha Stormcrow,Agent of Chaos
 <size="5">Her Majesty</size>^Selene Blackwood,Prince of Caliburn Island
+Shark Fighter,Gangrel
 Skeeter,Childe of Malkav
+Solomon McMath,Tremere
 Soot,Harpy of Caliburn Island
-Strife,Giovanni
+Strife,IA Minister
 <size="5">Mr.</size>^Tobias Jebidiah Calhoun,Lawyerador
 Tony Milliner,Giovanni
 Tyrin Arbor,Gangrel
