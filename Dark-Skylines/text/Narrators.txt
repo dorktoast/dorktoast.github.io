@@ -2,4 +2,5 @@ DorkToast
 WeAreBorg
 torvig
 Vampurica
-The Massagist
+Hailrig
+Dynagrum
