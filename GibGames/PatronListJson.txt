@@ -1,0 +1,88 @@
+{
+	"PatronNames" : [
+		[
+			"DorkToast",
+			"Local Player 1",
+			"Tupper"
+		],
+		[
+			"<b>Executive Producers</b>",
+			"Gil Modelski",
+			"VRLarp.com",
+			"WeAreBorg",
+			"Venus Studios"
+		],
+		[
+			"Tobias$Tobias Fox-Winkler bf81",
+			"ShadowShooter$snuno229 081f",
+			"UnerringRain790",
+			"Mim_Lord",
+			"Tony_Moloney",
+			"Ziiin",
+			"Whisper DaCosta$gulliverswift",
+			"VandalVR$VandalVR 0066",
+			"planshadow28"
+		],
+		[
+			"The Frenchman",
+			"billy8000",
+			"ReedzRat",
+			"Rhiss",
+			"Anthony O.$monzill82",
+			"Blitz",
+			"Vampurica",
+			"ADM. Graf Spee$ADMGrafSpee28",
+			"Lamb-Chop",
+			"ＡＬＥＥＮＡ",
+			"~AOVIN~",
+			"Nick B.$fukyachickenstrips"
+		],
+		[
+			"Cinch8881",
+			"Jormok",
+			"WolfChild",
+			"The Massagist",
+			"CosmicCrouton",
+			"Torvig",
+			"Dylan W.",
+			"Squox",
+			"Fizzleborp",
+			"Kladvayne"
+		],
+		[
+			"AlCapwn",
+			"Lamb-Chop",
+			"Ekron Vulture",
+			"PeteGroth",
+			"Hailrig",
+			"RandomW0lfieBoi",
+			"Vorath",
+			"muddsterrr",
+			"FinaleXen",
+			"Juan P.",
+			"loggen_",
+			"Tyrece B."
+		],
+		[
+			"Austen P.",
+			"Barbara L.",
+			"Carie V.",
+			"Colton S.",
+			"Graham H.",
+			"Jake S.",
+			"Jordyn W.",
+			"Lucas H.",
+			"Maebilene",
+			"VandalVR",
+			"Michael",
+			"Mike L.",
+			"Nuno S.",
+			"SwaMusic",
+			"DemonicToes",
+			"Vandictovoid",
+			"Alphalily",
+			"05-SCPViper",
+			"Its_M4cc"
+		]
+	]
+}	
