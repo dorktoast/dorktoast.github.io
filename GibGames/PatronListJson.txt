@@ -1,6 +1,6 @@
 {
-	"FullList" : [
-	  [
+	"PatronList" : [
+		[
 			"DorkToast",
 			"Local Player 1",
 			"Tupper"
