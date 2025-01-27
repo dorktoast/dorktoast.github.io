@@ -1,0 +1,13 @@
+{
+	"StaffList": [
+		"dorktoast",
+		"vampurica",
+		"maebeline",
+		"al hapwn 6cc1",
+		"hailrig"
+	],
+	"ExileManifest": [
+		"name1",
+		"name2"
+	]
+}
