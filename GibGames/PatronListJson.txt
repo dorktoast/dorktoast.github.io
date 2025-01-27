@@ -1,6 +1,6 @@
 {
-	[
-		[
+	"FullList" : [
+	  [
 			"DorkToast",
 			"Local Player 1",
 			"Tupper"
