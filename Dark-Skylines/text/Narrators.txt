@@ -3,5 +3,4 @@ WeAreBorg
 torvig
 Vampurica
 Hailrig
-Dynagrum
-Phasedragon
+Dynagrum 3f20
