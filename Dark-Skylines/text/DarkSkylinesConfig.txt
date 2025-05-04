@@ -6,7 +6,8 @@
 		"vampurica",
 		"maebeline",
 		"al capwn 6cc1",
-		"hailrig"
+		"hailrig",
+		"dynagrum 3f20"
 	],
 	"GameSchedule": "2/1 - Social\n2/8 - Brighton Beach\n2/22 - Downtown",
 	"Socials": "Twitter: <color=#1DA1F2>@GIBGames</color>\nDiscord: <color=White>discord.gg/gibgames</color>",

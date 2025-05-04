@@ -61,7 +61,10 @@
 			"FinaleXen",
 			"Juan P.",
 			"loggen_",
-			"Tyrece B."
+			"Tyrece B.",
+			"BlixertheMochi",
+			"Im W",
+			"AllieLazuli"
 		],
 		[
 			"Austen P.",
@@ -82,7 +85,8 @@
 			"Vandictovoid",
 			"Alphalily",
 			"05-SCPViper",
-			"Its_M4cc"
+			"Its_M4cc",
+			"Foamythings"
 		]
 	]
 }	
