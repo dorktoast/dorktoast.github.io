@@ -7,7 +7,4 @@ WeAreBorg, Shreksumus, SwaMusic, Avian, kelwish, raenford, Vandictovoid, Demonic
 <b>Janitor</b>
 DorkToast
 
-
-<color="yellow">Please be aware that "Site-97 Roleplay" group is not affiliated with the world creator, and the world creator is not responsible for moderation of their instances.
-
-The official Site-97/Infohazard group is "SCP Infohazard" or <b>SCP.7258</b>.</color>
+<color="yellow">Please be aware that "Site-97 Roleplay" group is not affiliated with the world creator, and the world creator is not responsible for moderation of their instances.</color>
