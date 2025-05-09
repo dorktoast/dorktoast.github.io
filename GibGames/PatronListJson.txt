@@ -47,7 +47,9 @@
 			"Dylan W.",
 			"Squox",
 			"Fizzleborp",
-			"Kladvayne"
+			"Kladvayne",
+			"CalypsoP",
+			"♰Seraphim♰"
 		],
 		[
 			"AlCapwn",
