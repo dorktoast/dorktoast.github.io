@@ -4,8 +4,7 @@
 	"StaffList": [
 		"dorktoast",
 		"vampurica",
-		"maebeline",
-		"al capwn 6cc1",
+		"maebilene",
 		"hailrig",
 		"dynagrum 3f20"
 	],
