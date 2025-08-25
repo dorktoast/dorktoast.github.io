@@ -1,10 +1,9 @@
-<b>Update MAR 05 2024</b>
+<b>Update Aug 24 2025</b>
 
-- Added Personnel list!
-- Fixed an issue with name tags. Note: If an instance goes on too long, stuff an break. (This is a vrchat issue.)
+- Fixed a bug with ST Perms.
 
 <b>Coming soon:</b>
 
 - Additional moderator tools
 - Avatar gallery
-- Patrons-only break room!
+- Updated VRPG system with more features!
