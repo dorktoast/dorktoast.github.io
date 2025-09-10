@@ -10,8 +10,6 @@
 	"Socials": "Twitter: <color=#1DA1F2>@GIBGames</color>\nDiscord: <color=White>discord.gg/gibgames</color>",
 	"ExileManifest": [
 		"name1",
-		"vandalvr 0066",
-		"name2",
-		"~ AOVIN ~"
+		"name2"
 	]
 }
