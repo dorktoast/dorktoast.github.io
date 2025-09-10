@@ -3,15 +3,15 @@
 	"Publisher": "GIB Games",
 	"StaffList": [
 		"dorktoast",
-		"vandalvr 0066",
 		"nightdasher",
-		"lueriel",
-		"~ AOVIN ~"
+		"lueriel"
 	],
 	"GameSchedule": "2/1 - Social\n2/8 - Brighton Beach\n2/22 - Downtown",
 	"Socials": "Twitter: <color=#1DA1F2>@GIBGames</color>\nDiscord: <color=White>discord.gg/gibgames</color>",
 	"ExileManifest": [
 		"name1",
-		"name2"
+		"vandalvr 0066",
+		"name2",
+		"~ AOVIN ~"
 	]
 }
