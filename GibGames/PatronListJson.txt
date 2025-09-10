@@ -20,7 +20,6 @@
 			"Tony_Moloney",
 			"Ziiin",
 			"Whisper DaCosta$gulliverswift",
-			"VandalVR$VandalVR 0066",
 			"planshadow28"
 		],
 		[
@@ -34,20 +33,16 @@
 			"ADM. Graf Spee$ADMGrafSpee28",
 			"Lamb-Chop",
 			"ＡＬＥＥＮＡ",
-			"~AOVIN~",
 			"Nick B.$fukyachickenstrips"
 		],
 		[
 			"Cinch8881",
-			"Jormok",
 			"WolfChild",
 			"The Massagist",
 			"CosmicCrouton",
 			"Torvig",
 			"Dylan W.",
 			"Squox",
-			"Fizzleborp",
-			"Kladvayne",
 			"CalypsoP",
 			"♰Seraphim♰"
 		],
@@ -58,7 +53,6 @@
 			"PeteGroth",
 			"Hailrig",
 			"RandomW0lfieBoi",
-			"Vorath",
 			"muddsterrr",
 			"FinaleXen",
 			"Juan P.",
@@ -77,8 +71,6 @@
 			"Jake S.",
 			"Jordyn W.",
 			"Lucas H.",
-			"Maebilene",
-			"VandalVR",
 			"Michael",
 			"Mike L.",
 			"Nuno S.",
