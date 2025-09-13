@@ -1,5 +1,5 @@
-<b>Administrative Staff<b>
-WeAreBorg, Lueriel, DeskOfAltoClef
+<b>Operators<b>
+WeAreBorg, Lueriel, Shreksumus, DeskOfAltoClef
 
 <b>Janitor</b>
 DorkToast
