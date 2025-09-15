@@ -5,8 +5,6 @@
 		"dorktoast",
 		"nightdasher",
 		"lueriel",
-		"~ AOVIN ~",
-		"VandalVR 0066",
 		"shreksumus"
 	],
 	"GameSchedule": "2/1 - Social\n2/8 - Brighton Beach\n2/22 - Downtown",
