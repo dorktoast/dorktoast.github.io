@@ -11,6 +11,8 @@
 	"Socials": "Twitter: <color=#1DA1F2>@GIBGames</color>\nDiscord: <color=White>discord.gg/gibgames</color>",
 	"WorldVersion": "2.4",
 	"VersionChangeNotice":"<color=red>World Notice</color> The world has been updated. Please reload instance immediately.",
+	"verboseDebug": "false",
+	"disableGMBring": "true",
 	"ExileManifest": [
 		"name1",
 		"name2"
