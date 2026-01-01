@@ -1,9 +1,13 @@
-Site-97 is no longer affiliated or partnered
-with the group known as "SCP of VRC".
+<color=white>Happy New Year, Site-97!</color>
 
-GIB Games and the associated creators of this world
-do <b><color=yellow>not</color></b> tolerate bullying or harassment.
+Welcome to the newest world update <color=yellow>2.7</color>! Features include:
+
+- Creating other instance moderators
+- UI cleanup
+- Some bugfixes
+
+GIB Games and the associated creators of this world do <b><color=yellow>not</color></b> tolerate bullying or harassment.
 
 Please, as always, be excellent to each other.
 
-Thank you.
+Please join the GIB Games discord at: <color=green>discord.gg/gibgames</color>!
