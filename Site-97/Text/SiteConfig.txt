@@ -12,7 +12,7 @@
 	"WorldVersion": "2.7",
 	"VersionChangeNotice":"<color=red>World Notice</color> The world has been updated. Please reload instance immediately.",
 	"verboseDebug": "false",
-	"disableGMBring": "true",
+	"disableGMBring": "false",
 	"ExileManifest": [
 		"name1",
 		"name2"

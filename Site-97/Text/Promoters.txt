@@ -1,5 +1,5 @@
-<b>Operators<b>
+<color=yellow>ANYONE NOT ON THIS LIST IS NOT SITE-97 WORLD STAFF.</color>
+<b><color=#8D5C2D>Operators</color></b>
 WeAreBorg, Lueriel, Shreksumus, DeskOfAltoClef
-
-<b>Janitor</b>
+<b><color=purple>Janitor</color></b>
 DorkToast
