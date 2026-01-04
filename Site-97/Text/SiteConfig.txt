@@ -11,7 +11,7 @@
 	],
 	"GameSchedule": "2/1 - Social\n2/8 - Brighton Beach\n2/22 - Downtown",
 	"Socials": "Twitter: <color=#1DA1F2>@GIBGames</color>\nDiscord: <color=White>discord.gg/gibgames</color>",
-	"WorldVersion": "2.7",
+	"WorldVersion": "2.8",
 	"VersionChangeNotice":"<color=red>World Notice</color> The world has been updated. Please reload instance immediately.",
 	"verboseDebug": "false",
 	"enableCheaterDetection": "true",
