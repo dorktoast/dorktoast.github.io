@@ -5,6 +5,8 @@
 		"dorktoast",
 		"nightdasher",
 		"lueriel",
+		"WeAreBorg",
+		"DeskOfAltoClef",
 		"shreksumus"
 	],
 	"GameSchedule": "2/1 - Social\n2/8 - Brighton Beach\n2/22 - Downtown",
@@ -12,6 +14,8 @@
 	"WorldVersion": "2.7",
 	"VersionChangeNotice":"<color=red>World Notice</color> The world has been updated. Please reload instance immediately.",
 	"verboseDebug": "false",
+	"enableCheaterDetection": "true",
+	"enableOperators": "true",
 	"disableGMBring": "false",
 	"ExileManifest": [
 		"name1",
