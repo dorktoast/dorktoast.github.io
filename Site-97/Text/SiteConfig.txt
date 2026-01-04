@@ -17,8 +17,9 @@
 	"enableCheaterDetection": "true",
 	"enableOperators": "true",
 	"disableGMBring": "false",
+	"enableKeyGeneration": "false",
 	"ExileManifest": [
-		"name1",
+		"lil_dingle",
 		"name2"
 	]
 }
