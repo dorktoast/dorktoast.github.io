@@ -13,7 +13,7 @@
 	"Socials": "Twitter: <color=#1DA1F2>@GIBGames</color>\nDiscord: <color=White>discord.gg/gibgames</color>",
 	"WorldVersion": "2.8",
 	"VersionChangeNotice":"<color=red>World Notice</color> The world has been updated. Please reload instance immediately.",
-	"cheatDetectionMessage":"<color=red>Notice</color> If you are seeing this message,\nthe Site-97 system has identified you as an abuser of\na modded VRChat client.\n\nFor assistance please visit:\ndiscord.gg/gibgames.",
+	"cheatDetectionMessage":"<color=red>Notice</color>\nIf you are seeing this message,\nthe Site-97 system has identified you as an abuser of\na modded VRChat client.\n\nFor assistance please visit:\ndiscord.gg/gibgames.",
 	"verboseDebug": "false",
 	"enableCheaterDetection": "true",
 	"localCheaterKey": "spoiledMilk",
