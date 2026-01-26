@@ -32,7 +32,7 @@
 			"Vampurica",
 			"ADM. Graf Spee$ADMGrafSpee28",
 			"Lamb-Chop",
-			"ＡＬＥＥＮＡ",
+			"Its_M4cc",
 			"Nick B.$fukyachickenstrips"
 		],
 		[
