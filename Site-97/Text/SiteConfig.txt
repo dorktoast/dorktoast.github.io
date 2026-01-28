@@ -23,6 +23,6 @@
 	"enableKeyGeneration": "false",
 	"ExileManifest": [
 		"lil_dingle",
-		"name2"
+		"Vαɳԃαʅ"
 	]
 }
