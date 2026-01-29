@@ -8,9 +8,9 @@
 		[
 			"<b>Executive Producers</b>",
 			"Gil Modelski",
-			"VRLarp.com",
+			"Anthony O.$monzill82",
 			"WeAreBorg",
-			"Venus Studios"
+			"Yoshanai"
 		],
 		[
 			"Tobias$Tobias Fox-Winkler bf81",
@@ -27,7 +27,6 @@
 			"billy8000",
 			"ReedzRat",
 			"Rhiss",
-			"Anthony O.$monzill82",
 			"Blitz",
 			"Vampurica",
 			"ADM. Graf Spee$ADMGrafSpee28",
