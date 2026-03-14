@@ -3,13 +3,13 @@
 	"publisher": "GIB Games",
 	"socials": "Twitter: <color=#1DA1F2>@GIBGames</color>\nDiscord: <color=White>discord.gg/gibgames</color>",
 	"gameVersion": "2.8",
-	"verboseDebug": "false",
-	"enableCheaterDetection": "true",
+	"verboseDebug": false,
+	"enableCheaterDetection": true,
 	"localCheaterKey": "spoiledMilk",
 	"windowScaleLogKey": "clippingDistanceXZTruncated",
 	"defaultMazeSpeed": 0.2,
-	"disableGMBring": "false",
-	"enableKeyGeneration": "false",
+	"disableGMBring": false,
+	"enableKeyGeneration": false,
 	"exileManifest": [
 		"Name1",
 		"Name2"
