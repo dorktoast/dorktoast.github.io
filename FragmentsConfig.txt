@@ -2,12 +2,12 @@
 	"gameName": "52 Fragments",
 	"publisher": "GIB Games",
 	"socials": "Twitter: <color=#1DA1F2>@GIBGames</color>\nDiscord: <color=White>discord.gg/gibgames</color>",
-	"gameVersion": "2.8",
+	"gameVersion": "Dr2.8",
 	"verboseDebug": "false",
 	"enableCheaterDetection": "true",
 	"localCheaterKey": "spoiledMilk",
 	"windowScaleLogKey": "clippingDistanceXZTruncated",
-	"defaultMazeSpeed": "0.2",
+	"defaultMazeSpeed": "0.02",
 	"disableGMBring": "false",
 	"enableKeyGeneration": "false"
 }
