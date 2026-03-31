@@ -10,7 +10,7 @@
 			"Gil Modelski",
 			"Anthony O.$monzill82",
 			"WeAreBorg",
-			"Yoshanai"
+			"༒Tempest༒"
 		],
 		[
 			"Tobias$Tobias Fox-Winkler bf81",
@@ -20,7 +20,8 @@
 			"Tony_Moloney",
 			"Ziiin",
 			"Whisper DaCosta$gulliverswift",
-			"planshadow28"
+			"planshadow28",
+			"05-SCPViper",
 		],
 		[
 			"The Frenchman",
@@ -80,7 +81,6 @@
 			"DemonicToes",
 			"Vandictovoid",
 			"Alphalily",
-			"05-SCPViper",
 			"Its_M4cc",
 			"Foamythings"
 		]
