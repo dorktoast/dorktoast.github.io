@@ -4,8 +4,6 @@
 	"StaffList": [
 		"dorktoast",
 		"nightdasher",
-		"lueriel",
-		"WeAreBorg",
 		"DeskOfAltoClef",
 		"shreksumus"
 	],
@@ -15,7 +13,7 @@
 	"VersionChangeNotice":"<color=red>World Notice</color> The world has been updated. Please reload instance immediately.",
 	"cheatDetectionMessage":"<color=red>Notice</color>\nIf you are seeing this message,\nthe world has encountered <color=yellow>Error 51505</color>. For assistance please visit:\ndiscord.gg/gibgames.",
 	"verboseDebug": "false",
-	"enableCheaterDetection": "true",
+	"enableCheaterDetection": "false",
 	"localCheaterKey": "spoiledMilk",
 	"windowScaleLogKey": "clippingDistanceXZTruncated",
 	"enableOperators": "true",
