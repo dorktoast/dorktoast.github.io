@@ -9,7 +9,7 @@
 	"VersionChangeNotice":"<color=red>World Notice</color> The world has been updated. Please reload instance immediately.",
 	"verboseDebug": "false",
 	"enableCheaterDetection": "false",
-	"enableOperators": "true"
+	"enableOperators": "true",
 	"disableWorld": "false",
 	"disableWorldMessage": "<color=red>World Notice</color>"
 }
