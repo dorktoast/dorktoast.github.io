@@ -4,11 +4,12 @@
 	"StaffList": [
 		"dorktoast"
 	],
-	"WorldVersion": "2.8",
+	"WorldVersion": "1.0",
+	"UpdateDate": "2026-09-08",
 	"VersionChangeNotice":"<color=red>World Notice</color> The world has been updated. Please reload instance immediately.",
 	"verboseDebug": "false",
 	"enableCheaterDetection": "false",
 	"enableOperators": "true"
 	"disableWorld": "false",
-	"disableWorldMessage": "_"
+	"disableWorldMessage": "<color=red>World Notice</color>"
 }
