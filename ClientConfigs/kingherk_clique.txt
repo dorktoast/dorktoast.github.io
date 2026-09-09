@@ -1,0 +1,14 @@
+{
+	"GameName": "Clique Nightclub",
+	"Publisher": "Azzy & Archer",
+	"StaffList": [
+		"dorktoast"
+	],
+	"WorldVersion": "2.8",
+	"VersionChangeNotice":"<color=red>World Notice</color> The world has been updated. Please reload instance immediately.",
+	"verboseDebug": "false",
+	"enableCheaterDetection": "false",
+	"enableOperators": "true"
+	"disableWorld": "false",
+	"disableWorldMessage": "_"
+}
