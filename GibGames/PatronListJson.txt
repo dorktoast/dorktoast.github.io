@@ -14,7 +14,6 @@
 		],
 		[
 			"Tobias$Tobias Fox-Winkler bf81",
-			"ShadowShooter$snuno229 081f",
 			"UnerringRain790",
 			"Mim_Lord",
 			"Tony_Moloney",
@@ -29,7 +28,6 @@
 			"ReedzRat",
 			"Rhiss",
 			"Blitz",
-			"Vampurica",
 			"ADM. Graf Spee$ADMGrafSpee28",
 			"Lamb-Chop",
 			"Its_M4cc",
@@ -44,7 +42,6 @@
 			"Torvig",
 			"Dylan W.",
 			"Squox",
-			"Its_M4cc",
 			"CalypsoP",
 			"♰Seraphim♰"
 		],
