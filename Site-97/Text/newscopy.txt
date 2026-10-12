@@ -1,13 +1,15 @@
-<color=white>Happy New Year, Site-97!</color>
+<color=white>Greetings, Site-97!</color>
 
-Welcome to the newest world update <color=yellow>2.7</color>! Features include:
+The map has been updated for the holidays. Chech out the charity run
+<- <- <-
+OVER THERE!
 
-- Creating other instance moderators
-- UI cleanup
-- Some bugfixes
+New UI improvements and script fixes are on the way. This is gonna be a great year for Site-97.
 
 GIB Games and the associated creators of this world do <b><color=yellow>not</color></b> tolerate bullying or harassment.
 
 Please, as always, be excellent to each other.
 
 Please join the GIB Games discord at: <color=green>discord.gg/gibgames</color>!
+
+<size=6><color=black>Site 97 Version 2.81</color></size>

@@ -7,9 +7,9 @@
 		"DeskOfAltoClef",
 		"shreksumus"
 	],
-	"GameSchedule": "2/1 - Social\n2/8 - Brighton Beach\n2/22 - Downtown",
+	"GameSchedule": "na",
 	"Socials": "Twitter: <color=#1DA1F2>@GIBGames</color>\nDiscord: <color=White>discord.gg/gibgames</color>",
-	"WorldVersion": "2.8",
+	"WorldVersion": "2.81",
 	"VersionChangeNotice":"<color=red>World Notice</color> The world has been updated. Please reload instance immediately.",
 	"cheatDetectionMessage":"<color=red>Notice</color>\nIf you are seeing this message,\nthe world has encountered <color=yellow>Error 51505</color>. For assistance please visit:\ndiscord.gg/gibgames.",
 	"verboseDebug": "false",
