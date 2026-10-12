@@ -1,0 +1,88 @@
+{
+	"CharityList" : [
+		[
+			"DorkToast",
+			"Local Player 1",
+			"Tupper"
+		],
+		[
+			"<b>Executive Producers</b>",
+			"Gil Modelski",
+			"Anthony O.$monzill82",
+			"WeAreBorg",
+			"༒Tempest༒"
+		],
+		[
+			"Tobias$Tobias Fox-Winkler bf81",
+			"ShadowShooter$snuno229 081f",
+			"UnerringRain790",
+			"Mim_Lord",
+			"Tony_Moloney",
+			"Ziiin",
+			"Whisper DaCosta$gulliverswift",
+			"planshadow28",
+			"Mrs Viper",
+		],
+		[
+			"The Frenchman",
+			"billy8000",
+			"ReedzRat",
+			"Rhiss",
+			"Blitz",
+			"Vampurica",
+			"ADM. Graf Spee$ADMGrafSpee28",
+			"Lamb-Chop",
+			"Its_M4cc",
+			"Sinctified",
+			"Nick B.$fukyachickenstrips"
+		],
+		[
+			"Cinch8881",
+			"WolfChild",
+			"The Massagist",
+			"CosmicCrouton",
+			"Torvig",
+			"Dylan W.",
+			"Squox",
+			"Its_M4cc",
+			"CalypsoP",
+			"♰Seraphim♰"
+		],
+		[
+			"AlCapwn",
+			"Lamb-Chop",
+			"Ekron Vulture",
+			"PeteGroth",
+			"Hailrig",
+			"RandomW0lfieBoi",
+			"muddsterrr",
+			"FinaleXen",
+			"Juan P.",
+			"loggen_",
+			"Tyrece B.",
+			"BlixertheMochi",
+			"Im W",
+			"darkXwοlf17",
+			"SGDK",
+			"༺Ӿ3̷R̷0̷L̷1̷Ӿ༻"
+		],
+		[
+			"Austen P.",
+			"Barbara L.",
+			"Carie V.",
+			"Colton S.",
+			"Graham H.",
+			"Jake S.",
+			"Jordyn W.",
+			"Lucas H.",
+			"Michael",
+			"Mike L.",
+			"Nuno S.",
+			"SwaMusic",
+			"DemonicToes",
+			"Vandictovoid",
+			"Alphalily",
+			"Foamythings"
+		]
+	]
+}	
